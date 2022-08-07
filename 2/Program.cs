@@ -6,6 +6,7 @@
 
 32679 -> 6*/
 
+Console.Write("Введите число ");
 string inputNumber = Console.ReadLine();
 int length = inputNumber.Length;
 if (length>2)
